@@ -108,10 +108,6 @@ progress::-webkit-progress-value {
 }
 
 /*Login background*/
-#loginPage {
-  background: url(https://i.imgur.com/0ZurTbR.png) !important; 
-  background-size: cover !important;
-}
 
 /*Make watched icon, footer on chapter thumnails (and other things), and count indicator dark and transparent*/
 .innerCardFooter,
